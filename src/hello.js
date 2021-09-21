@@ -3,7 +3,7 @@
 
 
 
-let data={
+/*let data={
     user: undefined,
 }
 
@@ -24,6 +24,9 @@ let data={
 if(data.user){
     console.log("hi")
 }
+*/
+
+console.log("hello");
 
 
 
