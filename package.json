@@ -1,0 +1,17 @@
+{
+  "name": "oneproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "dependencies": {
+    "http-server": "^13.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "dev": "nodemon node.js"
+  },
+  "author": "Tatev",
+  "type": "module"
+}

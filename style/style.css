@@ -1,0 +1,13 @@
+#label{
+    color:blue;
+  }
+  #elem{
+      background-color: #00ff95;
+      height: 80px;
+      width: 70px;
+  }
+
+  canvas{
+      border: 1px rgb(0, 255, 64) solid;
+      margin-top: 5px;
+  }
